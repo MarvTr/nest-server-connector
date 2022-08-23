@@ -1,0 +1,24 @@
+{
+  "name": "marvtr/nest-server-connector",
+  "type": "library",
+  "description": "email spooler",
+  "keywords": ["email","connector","spooler"],
+  "homepage": "https://ontavio.de",
+  "license": "MIT",
+  "require": {
+
+  },
+  "authors": [
+    {
+      "name": "ontavio",
+      "email": "support@ontavio.de",
+      "homepage": "http://ontavio.de",
+      "role": "company"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "NestServerConnector\\": "src/"
+    }
+  }
+}
