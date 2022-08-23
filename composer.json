@@ -20,5 +20,6 @@
     "psr-4": {
       "NestServerConnector\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
