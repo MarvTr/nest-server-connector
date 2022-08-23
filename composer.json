@@ -16,7 +16,6 @@
       "role": "company"
     },
   ],
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "NestServerConnector\\": "src/"
