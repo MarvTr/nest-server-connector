@@ -14,7 +14,7 @@
       "email": "support@ontavio.de",
       "homepage": "http://ontavio.de",
       "role": "company"
-    },
+    }
   ],
   "autoload": {
     "psr-4": {
