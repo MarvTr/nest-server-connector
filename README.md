@@ -3,10 +3,10 @@ Connector for nest.js E-Mail Spooler developed by lenne.tech
 
 email-spooling-agent
 
-ontavio-email-service
+ontavio-email-service-connector
 
-ontavio-email-spooler
+ontavio-email-spooler-connector
 
-ontavio-email-package
+ontavio-email-connector-package
 
 nestjs-email-spooler-(package)
