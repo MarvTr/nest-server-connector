@@ -9,4 +9,4 @@ ontavio-email-spooler
 
 ontavio-email-package
 
-ontavio-
+ontavio-nestjs-email-spooler
